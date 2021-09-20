@@ -1,4 +1,4 @@
-package com.digitalinnovation.personoapi.controller;
+package one.digitalinnovation.personoapi.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
